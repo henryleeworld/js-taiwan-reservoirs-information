@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="zh-TW">
+    <head>
+        <meta charset="utf-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+        <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+        <meta property="og:title" content="台灣水庫水情" />
+        <meta property="og:description" content="除了每年總雨量變化，台灣一年也分為 5 至 10 月的豐水期和 11 月至 4 月的枯水期，而豐水期以梅雨、颱風為主要降雨來源。" />
+        <meta property="og:locale" content="zh_TW" />
+        <meta property="og:type" content="website" />
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/5.1.3/css/bootstrap.min.css" integrity="sha512-GQGU0fMMi238uA+a/bdWJfpUGKUkBdgfFdgBm72SUQ6BeyWjoY/ton0tEjH+OSH9iP4Dfh+7HM0I9f5eR0L/4w==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+        <link rel="stylesheet" href="css/reservoirs-information.css" />
+        <link rel="stylesheet" href="css/water-wave.css" />
+        <title>台灣水庫水情</title>
+    </head>
+    <body>
+        <div class="bg-wrapper">
+            <div class="bg"></div>
+            <div class="bottom-content">
+                <div class="content-center">
+                    <div class="content">
+                        <h2 class="title">台灣水庫水情</h2>
+                    </div>
+                    <p>使用經濟部水利署開放資料呈現各水庫資訊</p>
+                    <a class="btn btn-warning m-2" href="#north">北部</a>
+                    <a class="btn btn-warning m-2" href="#central">中部</a>
+                    <a class="btn btn-warning m-2" href="#south">南部</a>
+                </div>
+            </div>
+        </div>
+        <section style="min-height: 1000px;">
+            <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" style="display: none;">
+                <symbol id="wave">
+                    <path d="M420,20c21.5-0.4,38.8-2.5,51.1-4.5c13.4-2.2,26.5-5.2,27.3-5.4C514,6.5,518,4.7,528.5,2.7c7.1-1.3,17.9-2.8,31.5-2.7c0,0,0,0,0,0v20H420z"></path>
+                    <path d="M420,20c-21.5-0.4-38.8-2.5-51.1-4.5c-13.4-2.2-26.5-5.2-27.3-5.4C326,6.5,322,4.7,311.5,2.7C304.3,1.4,293.6-0.1,280,0c0,0,0,0,0,0v20H420z"></path>
+                    <path d="M140,20c21.5-0.4,38.8-2.5,51.1-4.5c13.4-2.2,26.5-5.2,27.3-5.4C234,6.5,238,4.7,248.5,2.7c7.1-1.3,17.9-2.8,31.5-2.7c0,0,0,0,0,0v20H140z"></path>
+                    <path d="M140,20c-21.5-0.4-38.8-2.5-51.1-4.5c-13.4-2.2-26.5-5.2-27.3-5.4C46,6.5,42,4.7,31.5,2.7C24.3,1.4,13.6-0.1,0,0c0,0,0,0,0,0l0,20H140z"></path>
+                </symbol>
+            </svg>
+            <section class="section-reservoir container py-4">
+                <div class="row justify-content-start align-items-center text-center" id="reservoirItem"></div>
+            </section>
+        </section>
+        <section>
+            <img src="images/wave.svg" alt="" srcset="" />
+        </section>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/axios/0.23.0/axios.min.js" integrity="sha512-Idr7xVNnMWCsgBQscTSCivBNWWH30oo/tzYORviOCrLKmBaRxRflm2miNhTFJNVmXvCtzgms5nlJF4az2hiGnA==" crossorigin="anonymous" referrerpolicy="no-referrer" defer></script>
+        <script src="js/reservoirs-information.js" defer></script>
+    </body>
+</html>

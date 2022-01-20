@@ -1,0 +1,85 @@
+section {
+    background-color: #22384f;
+}
+
+.bg-wrapper {
+    height: 400px;
+    overflow: hidden;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    background-image: linear-gradient(rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.5));
+}
+
+.bg-wrapper .bg {
+    height: 100%;
+    width: 100%;
+    background-image: url(../images/reservoir.jpg);
+    background-position: center;
+    background-size: cover;
+    position: absolute;
+    z-index: -99;
+}
+
+.bottom-content {
+    box-sizing: border-box;
+    display: flex;
+    flex-wrap: wrap;
+    padding: 50px 70px;
+    margin: auto;
+    width: 100%;
+}
+
+@media (max-width: 575.98px) {
+    .bottom-content {
+        padding: 50px 30px;
+    }
+}
+
+.bottom-content p {
+    color: white;
+    font-family: "Montserrat", sans-serif;
+    line-height: 27px;
+    font-size: 17px;
+    margin: 7px 0px 23px 0px;
+    text-shadow: 1px 2px 10px rgba(0, 0, 0, 0.3);
+}
+
+@media (max-width: 640px) {
+    .bottom-content p {
+        font-size: 14px;
+    }
+}
+
+.content-center {
+    flex-grow: 1;
+    text-align: center;
+}
+
+.content-center .title {
+    color: #fff;
+    font-size: 60px;
+    text-shadow: 1px 2px 10px rgba(0, 0, 0, 0.3);
+}
+
+@media (max-width: 640px) {
+    .content-center .title {
+        font-size: 38px;
+    }
+}
+
+@media (max-width: 364px) {
+    .content-center .title {
+        font-size: 27px;
+    }
+}
+
+h5 {
+    color: aliceblue;
+    font-weight: bold;
+}
+
+.section-reservoir .region {
+    color: aliceblue;
+    font-weight: bolder;
+}
