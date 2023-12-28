@@ -11,5 +11,5 @@ $ git clone
 ----
 
 ## 畫面截圖
-![](https://i.imgur.com/xEqN9o1.png)
+![](https://i.imgur.com/opW1yXu.png)
 > 強烈大陸冷氣團帶來水氣，曾文水庫集水區昨（20）日也出現了入冬後難得的明顯降雨，是近 2 個半月來單日最多，讓蓄水率持續在 9 成以上
