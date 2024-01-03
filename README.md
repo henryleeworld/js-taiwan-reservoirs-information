@@ -11,5 +11,5 @@ $ git clone
 ----
 
 ## 畫面截圖
-![](https://i.imgur.com/okAbImh.png)
+![](https://i.imgur.com/GUV2ZPl.png)
 > 今日上午 8 點至 9 點半期間，日月潭及鄰近的集集、水里、溪頭等地區都曾下雨，但均在 1 個小時內停歇，且雨量僅 0.5 毫米，所以對日月潭水庫水位增減並無影響
