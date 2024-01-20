@@ -11,5 +11,5 @@ $ git clone
 ----
 
 ## 畫面截圖
-![](https://i.imgur.com/j5vEr9f.png)
+![](https://i.imgur.com/tuSJD2m.png)
 > 國內規模最大的曾文水庫，目前水位是啟用半世紀來的同期新高，而去年第 4 季起，在水情翻轉後，就積極展開抽泥作業，全力推動「延壽」的清淤工程
