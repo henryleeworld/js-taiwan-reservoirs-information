@@ -11,5 +11,5 @@ $ git clone
 ----
 
 ## 畫面截圖
-![](https://i.imgur.com/9O5mIOM.png)
+![](https://i.imgur.com/KbCcBFC.png)
 > 強烈大陸冷氣團也挾帶水氣，國內規模最大的曾文水庫，集水區在小年夜時累積降雨逾 25 毫米，創下近 5 個月來單日紀錄，農曆春節前小補水，令人驚喜
