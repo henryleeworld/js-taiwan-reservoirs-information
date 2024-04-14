@@ -11,5 +11,5 @@ $ git clone
 ----
 
 ## 畫面截圖
-![](https://i.imgur.com/xg8CgaI.png)
+![](https://i.imgur.com/YI3AkxS.png)
 > 曾文水庫、南化水庫蓄水率跌破 40%，經濟部水利署南區水資源分署表示，南部水情在梅雨季前都樂觀，就看梅雨何時報到，不過呼籲民眾仍要節約用水
