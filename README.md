@@ -11,5 +11,5 @@ $ git clone
 ----
 
 ## 畫面截圖
-![](https://i.imgur.com/xEGj2SA.png)
+![](https://i.imgur.com/WkCTHwR.png)
 > 鋒面帶來豐沛水氣，國內規模最大的曾文水庫，集水區連日來降雨明顯，連同烏山頭水庫的合計有效蓄水量已超過 2.36 億立方米
