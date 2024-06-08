@@ -11,5 +11,5 @@ $ git clone
 ----
 
 ## 畫面截圖
-![](https://i.imgur.com/j3kM39L.png)
+![](https://i.imgur.com/bWqKBY9.png)
 > 上週鋒面來襲 ，為台灣帶來不小雨勢，全台水庫皆有進帳，不過供應北部用水的石門水庫，蓄水率只回升到 35%，水情仍吃緊
