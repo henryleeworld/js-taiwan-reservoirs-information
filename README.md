@@ -11,5 +11,5 @@ $ git clone
 ----
 
 ## 畫面截圖
-![](https://i.imgur.com/T0zrXSI.png)
+![](https://i.imgur.com/kmCeSf6.png)
 > 連日來南部豔陽高照，不過靠著午後雷陣雨的助攻，國內規模最大的曾文水庫累積補水近千萬噸，進入下半年之際，蓄水率今天一早再回升至 5 成以上
