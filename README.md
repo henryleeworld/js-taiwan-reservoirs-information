@@ -11,5 +11,5 @@ $ git clone
 ----
 
 ## 畫面截圖
-![](https://i.imgur.com/nygPkgA.png)
+![](https://i.imgur.com/HtTdxku.png)
 > 國內規模最大的曾文水庫供應二期作灌溉，蓄水率持續下降，昨天（13 日）一度要跌破 5 成，不過，集水區再度下午後雷陣雨補水，已暫時回升
