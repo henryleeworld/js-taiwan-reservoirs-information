@@ -11,5 +11,5 @@ $ git clone
 ----
 
 ## 畫面截圖
-![](https://i.imgur.com/Aux51Tp.png)
+![](https://i.imgur.com/2nd1mfm.png)
 > 7 月底來到滿水位的曾文水庫，最近 1 週集水區都有降雨，上游逕流持續，在正常供水的情況下，蓄水率仍能穩住 100%
