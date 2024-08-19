@@ -11,5 +11,5 @@ $ git clone
 ----
 
 ## 畫面截圖
-![](https://i.imgur.com/M5MtQUf.png)
+![](https://imgur.com/BYBIkhO.png)
 > 由於集水區出現降雨，已達滿水位的曾文水庫，事隔 3 天後，今午 12 點再度啟動調節性放水，預留蓄洪空間，也確保下游河川安全
