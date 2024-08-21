@@ -11,5 +11,5 @@ $ git clone
 ----
 
 ## 畫面截圖
-![](https://imgur.com/BYBIkhO.png)
+![](https://i.imgur.com/XPSLOmF.png)
 > 連日午後雷陣雨狂炸，中央氣象署預報，今天（18 日）晚間到周二南部又有豪雨，已經滿庫的曾文水庫自 16 日開始啟動調節性放水，連 2 天放水量逾 2000 萬噸
