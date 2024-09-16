@@ -11,5 +11,5 @@ $ git clone
 ----
 
 ## 畫面截圖
-![](https://i.imgur.com/WeUXTeP.png)
+![](https://i.imgur.com/EhyI0bz.png)
 > 連日的午後雷陣雨，讓供應民生用水的南化水庫再次超過滿水位，昨天開始今年第 4 度的自然溢流，下游河岸居民注意安全
