@@ -11,5 +11,5 @@ $ git clone
 ----
 
 ## 畫面截圖
-![](https://i.imgur.com/0WX5UoH.png)
+![](https://i.imgur.com/thoo9HH.png)
 > 目前全台主要供水水庫蓄水率多達 9 成以上至滿庫，平均蓄水率 95%，水利署表示，現況水情審慎樂觀，供水正常
