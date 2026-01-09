@@ -11,5 +11,5 @@ $ git clone
 ----
 
 ## 畫面截圖
-![](https://i.imgur.com/TKYhknA.png)
+![](https://i.imgur.com/SpO5xRS.png)
 >  鳳凰颱風侵襲，未為台南山區帶來豐沛水氣，國內規模最大的曾文水庫沒有明顯降雨，水情幾無「進帳」
